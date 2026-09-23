@@ -8,7 +8,7 @@ public static void main(String args[]) {
 
 ArrayList<String> obj1 = new ArrayList<String>();
 
-/*This is how elements should be added to the array lit*/
+/*This is how elements should be addd to the array lit*/
 
 obj1.add("Ajeet");
 
